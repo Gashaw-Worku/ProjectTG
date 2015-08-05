@@ -17,6 +17,8 @@ namespace FindStaffsInComputer
             // Some more changes
 
             // Feature 1.1
+
+            // Additional changes to feature 1.1
         }
 
     }
