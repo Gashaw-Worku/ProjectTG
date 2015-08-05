@@ -11,6 +11,9 @@ namespace FindStaffsInComputer
         static void Main(string[] args)
         {
             // Start New Cool Projects
+
+            // Add Hello Worlds Message
+            Console.WriteLine("Hello Guys");
         }
     }
 }
